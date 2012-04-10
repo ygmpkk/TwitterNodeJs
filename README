@@ -1,6 +1,6 @@
-#国内不能访问Twitter，前几天看到YQL，于是萌生出一个想法，通过Node.Js调用YQL，架设一个Twitter NodeJs的程序，类似代理;
-#有兴趣的同学可以参加这个项目；
+# 国内不能访问Twitter，前几天看到YQL，于是萌生出一个想法，通过Node.Js调用YQL，架设一个Twitter NodeJs的程序，类似代理;
+# 有兴趣的同学可以参加这个项目；
 
-#Todo
-#实现基本框架，使用Bootstrap布局引擎，仿Twitter界面；
-#第一步实现登陆授权、获取状态、发布状态，关注
+# Todo
+# 实现基本框架，使用Bootstrap布局引擎，仿Twitter界面；
+# 第一步实现登陆授权、获取状态、发布状态，关注
